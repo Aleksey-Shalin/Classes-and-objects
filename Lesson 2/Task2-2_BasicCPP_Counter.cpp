@@ -43,7 +43,6 @@ int main() {
 	Counter counter1;
 	char instruction;
 	std::string init_value_choice;
-	int initial;
 
 	// цикл с проверкой, что выбрано да или нет
 	while (true) {
